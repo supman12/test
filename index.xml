@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My blog</title>
-    <link>http://example.org/index.xml</link>
-    <description>Recent content on My blog</description>
+    <title>Supman blog</title>
+    <link>https://supman12.github.io/test/index.xml</link>
+    <description>Recent content on Supman blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jan 2017 18:27:58 +0200</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://supman12.github.io/test/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
-      <link>http://example.org/post/first/</link>
+      <link>https://supman12.github.io/test/post/first/</link>
       <pubDate>Mon, 09 Jan 2017 18:27:58 +0200</pubDate>
       
-      <guid>http://example.org/post/first/</guid>
+      <guid>https://supman12.github.io/test/post/first/</guid>
       <description>&lt;p&gt;Я на уроці IT&lt;/p&gt;
 </description>
     </item>
